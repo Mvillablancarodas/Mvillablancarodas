@@ -18,6 +18,16 @@
  
 
 - 👀 PORTAFOLIO PERSONAL DE MARCIA VILLABLANCA RODAS en los proximos dias estare actualizando el repositorio personal donde mostrare mis proyectos que realice para los cursos de capacitacion que eh realizado a lo largo de 5 años.
+- Estudiante de ingenieria
+  
+- Cursos realizados
+              desarrollo web 
+              Python
+              FULL STACK
+              Testing manual
+              Java 
+
+  
 
 <!---
 Mvillablancarodas/Mvillablancarodas is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
